@@ -18,12 +18,14 @@ Part 1
 ![img](img/5.4.png)
 
 6. Explore "more" and "less" commands
+
 ![img](img/6.1.png)
 ![img](img/6.2.png)
 ![img](img/6.3.png)
 ![img](img/6.4.png)
 
 7. "Finger" command
+
 ![img](img/7.png)
 
 8. Command "ls"
@@ -39,6 +41,7 @@ Part 2
 ![img](img/P2.2.png)
 
 3. "cd"
+
 ![img](img/P2.3.png)
 
 4. "ls". Using the "-l" and "-a" switcehs
@@ -51,16 +54,21 @@ Part 2
 ![img](img/P2.6.png)
 
 After delete "labwork2", symb_lnk_labwork2" doesn't work
+
+
 7.locate utility
+
 ![img](img/P2.7.png)
 
 8.Mounted partitions and types
 ![img](img/P2.8.png)]
 
 9. "wc"
+
 ![img](img/P2.9.png)
 
 10. "find" command 
+
 ![img](img/P2.10.png)
 
 11. "grep"
