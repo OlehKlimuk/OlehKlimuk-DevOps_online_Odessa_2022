@@ -1,8 +1,8 @@
 Task 4.1
 Part 1
 1.	login
-2.	passdw - change password
-3.	
+2.	passdw - change password	
 ![img](img/2.png)
-4.	chfn - change personal information
-5. 	man w - 
+3. chfn - change personal information
+![img](img/3.png)
+4. 	man w - 
