@@ -5,6 +5,7 @@ Part 1
 ![img](img/2.png)
 
 3.  Determine users in the system
+
 ![img](img/3.png)
 
 4. 	Change personal information
