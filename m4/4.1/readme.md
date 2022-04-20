@@ -3,6 +3,6 @@ Part 1
 1.	login
 2.	passdw - change password
 3.	
-![img](screenshot/2.png)
+![img](img/2.png)
 4.	chfn - change personal information
 5. 	man w - 
