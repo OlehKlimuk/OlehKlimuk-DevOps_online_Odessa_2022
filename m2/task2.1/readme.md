@@ -1,4 +1,6 @@
 Part 1
+
+
 ![img](1.png)
 ![img](2.png)
 ![img](3.png)
@@ -10,6 +12,8 @@ Part 1
 ![img](9.png)
 ![img](10.png)
 Part2
+
+
 ![img](Vagrant1.png)
 ![img](Vagrant2.png)
 ![img](Vagrant3.png)
