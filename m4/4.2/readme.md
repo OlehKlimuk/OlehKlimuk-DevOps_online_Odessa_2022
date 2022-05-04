@@ -18,7 +18,7 @@
 
 ![img](7.png)
 
-![img](7.1.png)
+![img](7,1.png)
 
 8) Command "userdel -r username"
 9) We can use the command "passwd -l username" or "usermod -L username" to lock the user. And can unlock him by this commands 'passwd -u username' or 'usermod -U username'
