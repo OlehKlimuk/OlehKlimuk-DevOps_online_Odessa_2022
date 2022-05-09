@@ -2,7 +2,7 @@ PART 1
 
 2 Install MySQL server on VM.
 
-![img](img/1.png)
+![img](1.png)
 
 3 Select a subject area and describe the database schema, (minimum 3 tables)
 
