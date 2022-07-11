@@ -33,7 +33,7 @@ A. Create a script that uses the following keys:1. When starting without paramet
 		fi
 
 
-
+![img](A.png)
 
 
 B. Using Apache log example create a script to answer the following questions:1. From which ip were the most requests? 
@@ -66,7 +66,7 @@ B. Using Apache log example create a script to answer the following questions:1.
 
 
 
-
+![img](B.png)
 
 
 
@@ -98,3 +98,4 @@ In case of adding new or deleting old files, the script must add a corresponding
 			backup_1 "$1" "$2"
 		fi
                                     
+![img](C.png)
