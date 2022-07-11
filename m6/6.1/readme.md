@@ -7,7 +7,9 @@ A. Create a script that uses the following keys:1. When starting without paramet
 
 function show_subnet {
     echo "Hosts in subnet: "
+    
     ip -o -f inet addr show | awk '/scope global / {print $4}'
+    
     arp -a
 }
 
